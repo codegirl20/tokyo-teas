@@ -194,6 +194,8 @@ if($del == null)
     //]]>
 </script>
 <link rel="stylesheet" href="<?php echo $hostName; ?>global/theme-controls.css" type="text/css" />
+
+<script src="//assets.adobedtm.com/35066b6d6803/d2e2c0f418f6/launch-5972b8498331-staging.min.js" async></script>
   </head>
   <body>
     <div id="fb-root"></div>
